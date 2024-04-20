@@ -54,4 +54,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 - Frontend Mentor - [@Kingskyro](https://www.frontendmentor.io/profile/KingSkyros)
-- meduim - [@Kingskyro]()
+- meduim - [@Kingskyro](https://medium.com/@kingskyro64)
